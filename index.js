@@ -7,5 +7,7 @@ app.get("/prerna",function(req,res){
     res.send("ghjk");
 });
 
-
+app.get("/prerna",function(req,res){
+    res.send("ghjk");
+});
 app.listen(80);
